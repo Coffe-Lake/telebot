@@ -1,0 +1,11 @@
+# ignore venv
+*televenv
+
+# ignore compile
+*.pyc
+
+#ignore token
+*config.py
+
+
+
