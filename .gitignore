@@ -1,8 +1,8 @@
 # ignore venv
-*televenv
+*/televenv
 
 # ignore compile
-*.pyc
+*/__pycache__
 
 #ignore token
 *config.py
